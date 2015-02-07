@@ -2,7 +2,7 @@
 gradle build that executes selenium test
 
 build / execute by running 
-# gradle test
+gradle test
 
 Currently this executes selenium, opens the gmail login page and does a string compare of an expected page title vs. actual.
 
